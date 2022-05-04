@@ -1,0 +1,26 @@
+.emoji-result-row{
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    cursor: pointer;
+    display: flex;
+    position: relative;
+}
+.emoji-result-row:hover{
+    background-color: #ddd;
+}
+.emoji-result-row:hover .info{
+    color: blue !important;
+}
+.emoji-icon{
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+}
+.tiltle{
+    font-size: 25px;
+}
+.info{
+    position: absolute;
+    right: 10px;
+    color: #ccc;
+}

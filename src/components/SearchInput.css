@@ -1,0 +1,10 @@
+.text_input {
+    width: 100%;
+    font-size: 20px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.text_input:focus {
+    outline-color: chocolate;
+}

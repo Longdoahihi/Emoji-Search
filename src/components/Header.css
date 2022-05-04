@@ -1,0 +1,8 @@
+*{
+    font-size: 35px;
+    font-family: 'Chakra Petch', sans-serif ;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
